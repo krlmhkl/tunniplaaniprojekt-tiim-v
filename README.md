@@ -6,7 +6,7 @@ Käesolev projekt on 04.11-06.11.2020 Kuressaare Ametikooli projektipäevade raa
 Mattias Kaerma TA-20 / Erki Leemet TAK-19 / Kenneth Lember TAK-19
 
 ### HTML/CSS tiim
-Jennifer Tarvis TAK-18/ Janar Kuusk TAK-20 / Joonas Püüding TAK-19 / Robert Ant TA-20
+Jennifer Tarvis TAK-18 / Janar Kuusk TAK-20 / Joonas Püüding TAK-19 / Robert Ant TA-20
 
 ### Figma tiim
 Kadi Remmelgas-Luka TA-20 / Kris-Kristofer Burk TAK-18 / Risto Siimer TAK-19 / Karl-Mihkel Truu TA-20 / Andero Mägi
